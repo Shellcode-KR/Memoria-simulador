@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Memoria
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ crearMemandSO()
+comment3.params=
+comment3.target=void\ crearProcesos()
+comment4.params=
+comment4.target=void\ estado()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Proceso
+comment0.text=\r\n\r\n\ @author\ FLAViO\r\n
+comment1.params=mo\ tm\ numeroproceso\ tiempollegada
+comment1.target=Proceso(int,\ int,\ int,\ int)
+comment2.params=mo\ sso
+comment2.target=Proceso(int,\ boolean)
+comment3.params=
+comment3.target=int\ getTiLlegada()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ atenderProceso()
+numComments=6
